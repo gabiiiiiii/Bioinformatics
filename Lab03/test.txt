@@ -1,0 +1,6 @@
+>URS00001DA281_9606 Homo sapiens transfer RNA-SeC (TCA) 1-1 (TRU-TCA1-1)
+GGCCGCGGCAGGUUCGAGUCCUGCCGCGAUCGCCAC
+((((((((((((.......)))))))))...))).. (-12.90)
+>URS00001DA281_9606 Homo sapiens transfer RNA-SeC (TCA) 1-1 (TRU-TCA1-1)
+GGCCGCGGCAGGUUCGAGUCCUGCCGCGAUCGCCAC
+((((((((((((.......)))))))))...))).. (-12.90)

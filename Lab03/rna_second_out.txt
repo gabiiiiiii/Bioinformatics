@@ -1,0 +1,72 @@
+>URS00001DA281_9606 Homo sapiens transfer RNA-SeC (TCA) 1-1 (TRU-TCA1-1)
+GCCCGGAUGAUCCUCAGUGGUCUGGGGUGCAGGCUUCAAACCUGUAGCUGUCUAGCGACAGAGUGGUUCAAUUCCACCUUUCGGGCG
+(((((((.(..((((((....))))))((((((.......)))))).(((((....))))).((((.......))))).))))))). (-37.10)
+>URS00002D2D8F_9606 Homo sapiens mitochondrially encoded tRNA valine (MT-TV)
+CAGAGUGUAGCUUAACACAAAGCACCCAACUUACACUUAGGAGAUUUCAACUUAACUUGACCGCUCUGA
+..(((((((((((......))))........))))))).((((...((((......))))...)))).. (-12.90)
+>URS0000868523_9606 tRNA-Gly-CCC-2-2 from Homo sapiens (PDB 4QEI, chain C)
+GCGCCGCUGGUGUAGUGGUAUCAUGCAAGAUUCCCAUUCUUGCGACCCGGGUUCGAUUCCCGGGCGGCG
+.(((((((((((......))))).((((((.......))))))...(((((.......))))))))))) (-28.40)
+>URS00008FED2A_9606 tRNA3Lys from Homo sapiens (PDB 5CD1, chain M)
+GGCCCGGAUAGCUCAGUCGGUAGAGCAUCAGACUUUUAAUCUGAGGGUCCAGGGUUCAAGUCCCUGUUCGGGCGCCA
+.((((((((.((((........))))))).((((((((...))))))))(((((.......)))))..))))).... (-29.50)
+>URS00008FED48_9606 selenocysteine tRNA from Homo sapiens (PDB 4RQF, chain C)
+GGCCGGAUGAUCCUCAGUGGUCUGGGGUGCAGGCUUCAAACCUGUAGCUGUCUAGCGACAGAGUGGUUCAAUUCCACCUUUCGGGCGCCA
+(.(((((.(..((((((....))))))((((((.......)))))).(((((....))))).((((.......))))).))))).).... (-32.70)
+>URS0000D56C47_9606 tRNA lysine3 from Homo sapiens (PDB 6B19, chain D)
+GCCCGGAUAGCUCAGUCGGUAGAGCAUCAGACUUUUAAUCUGAGGGUCCAGGGUUCAAGUCCCUGUUCGGGCGCCAC
+((((((((.((((........))))))).((((((((...))))))))(((((.......)))))..)))))..... (-29.60)
+>URS000014E598_9606 tRNASec from Homo sapiens (PDB 3HL2, chain E)
+GCCCGGAUGAUCCUCAGUGGUCUGGGGUGCAGGCUUCAAACCUGUAGCUGUCUAGCGACAGAGUGGUUCAAUUCCACCUUUCGGGCGCCA
+(((((((.(..((((((....))))))((((((.......)))))).(((((....))))).((((.......))))).))))))).... (-37.10)
+>URS0000BC46AB_9606 tRNA from Homo sapiens (PDB 5WWT, chain C)
+GAGGGUAUAGCUCAGGGGUAGAGCAUUUGACUGCAGAUCAAGAGGUCCCUGGUUCAAAUCCAGGUGCCCUCUCCA
+(((((((..((((.......))))...........((((....))))(((((.......)))))))))))).... (-24.70)
+>URS0000305D7E_9606 tRNA(Gly) from Homo sapiens (PDB 5E6M, chain C)
+GCGCCGCUGGUGUAGUGGUAUCAUGCAAGAUUCCCAUUCUUGCGACCCGGGUUCGAUUCCCGGGCGGCGCACCA
+((((((((((((......))))).((((((.......))))))...(((((.......)))))))))))).... (-33.30)
+>URS000080E36F_9606 mt-tRNAVal from Homo sapiens (PDB 3J7Y, chain B)
+CCAGAGUGUAGCUUAACACAAAGCACCCAACUUACACUUAGGAGAUUUCAACUUAACUUGACCGCUCUGACCA
+...(((((((((((......))))........))))))).((((...((((......))))...))))..... (-12.90)
+>URS0000D77905_9606 P-site fMet-tRNAMet, mitochondrial from Homo sapiens (PDB 6GB2, chain AV)
+AGUAAGGUCAGCUAAAUAAGCUAUCGGGCCCAUACCCCGAAAAUGUUGGUUAUACCCUUCCCGUACUACCA
+.........((((.....)))).(((((.......)))))......((((..(((.......)))..)))) (-13.30)
+>URS0000E60BCB_9606 mt-tRNAVal from Homo sapiens (PDB 6NU2, chain B)
+AGAGUGUAGCUUAAAAGCACCCAACUUACACUUAGGAGAUUCAAUUGACGCUCUGA
+.((((((((((....)))........))))))).((((..((....))..)))).. (-10.40)
+>URS0000326EAC_9606 E site tRNA (75-MER) from Homo sapiens (PDB 6QZP, chain S6)
+AGCAGAGUGGCGCAGCGGAAGCGUGCUGGGCCCAUAACCCAGAGGUCGAUGGAUCGAAACCAUCCUCUGCUACCA
+(((((((.(((.(((((......))))).)))....(((....))).(((((.......)))))))))))).... (-30.30)
+>URS00008FED3B_9606 P-SITE TRNA from Homo sapiens (PDB 5A8L, chain P)
+GGGAUUAGGAAUCCCCCA
+((((((...))))))... ( -5.90)
+>URS000080E288_9606 G70A tRNA minihelix from Homo sapiens (PDB 4X4O, chain B)
+GGCCGCGGCAGGUUCGAAUCCUGCCGCGAUCGCC
+((((((((((((.......)))))))))...))) (-21.50)
+>URS000080DD43_9606 G70A tRNA minihelix ending in CCACC from Homo sapiens (PDB 4X4R, chain B)
+GGCCGCGGCAGGUUCGAGUCCUGCCGCGAUCGCCACC
+((((((((((((.......)))))))))...)))... (-23.20)
+>URS000080E17B_9606 G70A tRNA minihelix ending in CCAC from Homo sapiens (PDB 4X4Q, chain B)
+GGCCGCGGCAGGUUCGAGUCCUGCCGCGAUCGCCAC
+((((((((((((.......)))))))))...))).. (-23.20)
+>URS000080DEB9_9606 G70A tRNA minihelix ending in CCACCA from Homo sapiens (PDB 4X4T, chain G)
+GGCCGCGGCAGGUUCGAAUCCUGCCGCGAUC
+...(((((((((.......)))))))))... (-19.50)
+>URS0000E60B72_9606 tRNA from Homo sapiens (PDB 6AHU, chain T)
+GUUUCCGUAGUGUAGUGGUUAUCACGUUCGCCUAACACGCGAAAGGUCCCCGGUUCGAAACCGGGCGGAAAC
+(((((((.......(((.....))).(((((.......))))).....(((((((...)))))))))))))) (-23.70)
+>URS000080E2D0_9606 G70A tRNA minihelix from Homo sapiens (PDB 4X4N, chain B)
+GGCCGCGGCAGGUUCGAAUCCUGCCGCGAUCG
+((.(((((((((.......))))))))).)). (-20.00)
+>URS0000624339_10090 tRNA(Sec) from Mus musculus (PDB 3RG5, chain B)
+GCCCGGAUGAUCCUCAGUGGUCUGGGGUGCAGGCUUCAAACCUGUAGCUGUUUAGCGACAGAGUGGUUCAAUUCCACCUUUCGGGC
+(((((((.(..((((((....))))))((((((.......)))))).(((((....))))).((((.......))))).))))))) (-33.00)
+>URS000080DDE9_7227 E-tRNA from Drosophila melanogaster (PDB 4V6W, chain BC)
+AGCAGAGUGGCGCAGUGGAAGCGUGCUGGGCCCAUAACUCAGAGGUCCGAGGAUCGAAACCUUGCUCUGCUACCA
+(((((((((((((.((....)))))))((((((........).)))))((((.......)))))))))))).... (-27.30)
+>URS000011107D_562 tRNA from Escherichia coli (PDB 4V4W, chain AU)
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-22.40)
+>URS000011107D_32630 A/T-site tRNA Phe from (PDB 4V69, chain AY)
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-22.40)

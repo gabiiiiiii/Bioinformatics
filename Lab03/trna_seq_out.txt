@@ -1,0 +1,822 @@
+>URS00001DA281_9606 Homo sapiens transfer RNA-SeC (TCA) 1-1 (TRU-TCA1-1)
+GCCCGGAUGAUCCUCAGUGGUCUGGGGUGCAGGCUUCAAACCUGUAGCUGUCUAGCGACAGAGUGGUUCAAUUCCACCUUUCGGGCG
+(((((((.(..((((((....))))))((((((.......)))))).(((((....))))).((((.......))))).))))))). (-37.10)
+>URS00002D2D8F_9606 Homo sapiens mitochondrially encoded tRNA valine (MT-TV)
+CAGAGUGUAGCUUAACACAAAGCACCCAACUUACACUUAGGAGAUUUCAACUUAACUUGACCGCUCUGA
+..(((((((((((......))))........))))))).((((...((((......))))...)))).. (-12.90)
+>URS0000868523_9606 tRNA-Gly-CCC-2-2 from Homo sapiens (PDB 4QEI, chain C)
+GCGCCGCUGGUGUAGUGGUAUCAUGCAAGAUUCCCAUUCUUGCGACCCGGGUUCGAUUCCCGGGCGGCG
+.(((((((((((......))))).((((((.......))))))...(((((.......))))))))))) (-28.40)
+>URS00008FED2A_9606 tRNA3Lys from Homo sapiens (PDB 5CD1, chain M)
+GGCCCGGAUAGCUCAGUCGGUAGAGCAUCAGACUUUUAAUCUGAGGGUCCAGGGUUCAAGUCCCUGUUCGGGCGCCA
+.((((((((.((((........))))))).((((((((...))))))))(((((.......)))))..))))).... (-29.50)
+>URS00008FED48_9606 selenocysteine tRNA from Homo sapiens (PDB 4RQF, chain C)
+GGCCGGAUGAUCCUCAGUGGUCUGGGGUGCAGGCUUCAAACCUGUAGCUGUCUAGCGACAGAGUGGUUCAAUUCCACCUUUCGGGCGCCA
+(.(((((.(..((((((....))))))((((((.......)))))).(((((....))))).((((.......))))).))))).).... (-32.70)
+>URS0000D56C47_9606 tRNA lysine3 from Homo sapiens (PDB 6B19, chain D)
+GCCCGGAUAGCUCAGUCGGUAGAGCAUCAGACUUUUAAUCUGAGGGUCCAGGGUUCAAGUCCCUGUUCGGGCGCCAC
+((((((((.((((........))))))).((((((((...))))))))(((((.......)))))..)))))..... (-29.60)
+>URS000014E598_9606 tRNASec from Homo sapiens (PDB 3HL2, chain E)
+GCCCGGAUGAUCCUCAGUGGUCUGGGGUGCAGGCUUCAAACCUGUAGCUGUCUAGCGACAGAGUGGUUCAAUUCCACCUUUCGGGCGCCA
+(((((((.(..((((((....))))))((((((.......)))))).(((((....))))).((((.......))))).))))))).... (-37.10)
+>URS0000BC46AB_9606 tRNA from Homo sapiens (PDB 5WWT, chain C)
+GAGGGUAUAGCUCAGGGGUAGAGCAUUUGACUGCAGAUCAAGAGGUCCCUGGUUCAAAUCCAGGUGCCCUCUCCA
+(((((((..((((.......))))...........((((....))))(((((.......)))))))))))).... (-24.70)
+>URS0000305D7E_9606 tRNA(Gly) from Homo sapiens (PDB 5E6M, chain C)
+GCGCCGCUGGUGUAGUGGUAUCAUGCAAGAUUCCCAUUCUUGCGACCCGGGUUCGAUUCCCGGGCGGCGCACCA
+((((((((((((......))))).((((((.......))))))...(((((.......)))))))))))).... (-33.30)
+>URS000080E36F_9606 mt-tRNAVal from Homo sapiens (PDB 3J7Y, chain B)
+CCAGAGUGUAGCUUAACACAAAGCACCCAACUUACACUUAGGAGAUUUCAACUUAACUUGACCGCUCUGACCA
+...(((((((((((......))))........))))))).((((...((((......))))...))))..... (-12.90)
+>URS0000D77905_9606 P-site fMet-tRNAMet, mitochondrial from Homo sapiens (PDB 6GB2, chain AV)
+AGUAAGGUCAGCUAAAUAAGCUAUCGGGCCCAUACCCCGAAAAUGUUGGUUAUACCCUUCCCGUACUACCA
+.........((((.....)))).(((((.......)))))......((((..(((.......)))..)))) (-13.30)
+>URS0000E60BCB_9606 mt-tRNAVal from Homo sapiens (PDB 6NU2, chain B)
+AGAGUGUAGCUUAAAAGCACCCAACUUACACUUAGGAGAUUCAAUUGACGCUCUGA
+.((((((((((....)))........))))))).((((..((....))..)))).. (-10.40)
+>URS0000326EAC_9606 E site tRNA (75-MER) from Homo sapiens (PDB 6QZP, chain S6)
+AGCAGAGUGGCGCAGCGGAAGCGUGCUGGGCCCAUAACCCAGAGGUCGAUGGAUCGAAACCAUCCUCUGCUACCA
+(((((((.(((.(((((......))))).)))....(((....))).(((((.......)))))))))))).... (-30.30)
+>URS00008FED3B_9606 P-SITE TRNA from Homo sapiens (PDB 5A8L, chain P)
+GGGAUUAGGAAUCCCCCA
+((((((...))))))... ( -5.90)
+>URS000080E288_9606 G70A tRNA minihelix from Homo sapiens (PDB 4X4O, chain B)
+GGCCGCGGCAGGUUCGAAUCCUGCCGCGAUCGCC
+((((((((((((.......)))))))))...))) (-21.50)
+>URS000080DD43_9606 G70A tRNA minihelix ending in CCACC from Homo sapiens (PDB 4X4R, chain B)
+GGCCGCGGCAGGUUCGAGUCCUGCCGCGAUCGCCACC
+((((((((((((.......)))))))))...)))... (-23.20)
+>URS000080E17B_9606 G70A tRNA minihelix ending in CCAC from Homo sapiens (PDB 4X4Q, chain B)
+GGCCGCGGCAGGUUCGAGUCCUGCCGCGAUCGCCAC
+((((((((((((.......)))))))))...))).. (-23.20)
+>URS000080DEB9_9606 G70A tRNA minihelix ending in CCACCA from Homo sapiens (PDB 4X4T, chain G)
+GGCCGCGGCAGGUUCGAAUCCUGCCGCGAUC
+...(((((((((.......)))))))))... (-19.50)
+>URS0000E60B72_9606 tRNA from Homo sapiens (PDB 6AHU, chain T)
+GUUUCCGUAGUGUAGUGGUUAUCACGUUCGCCUAACACGCGAAAGGUCCCCGGUUCGAAACCGGGCGGAAAC
+(((((((.......(((.....))).(((((.......))))).....(((((((...)))))))))))))) (-23.70)
+>URS000080E2D0_9606 G70A tRNA minihelix from Homo sapiens (PDB 4X4N, chain B)
+GGCCGCGGCAGGUUCGAAUCCUGCCGCGAUCG
+((.(((((((((.......))))))))).)). (-20.00)
+>URS0000624339_10090 tRNA(Sec) from Mus musculus (PDB 3RG5, chain B)
+GCCCGGAUGAUCCUCAGUGGUCUGGGGUGCAGGCUUCAAACCUGUAGCUGUUUAGCGACAGAGUGGUUCAAUUCCACCUUUCGGGC
+(((((((.(..((((((....))))))((((((.......)))))).(((((....))))).((((.......))))).))))))) (-33.00)
+>URS000080DDE9_7227 E-tRNA from Drosophila melanogaster (PDB 4V6W, chain BC)
+AGCAGAGUGGCGCAGUGGAAGCGUGCUGGGCCCAUAACUCAGAGGUCCGAGGAUCGAAACCUUGCUCUGCUACCA
+(((((((((((((.((....)))))))((((((........).)))))((((.......)))))))))))).... (-27.30)
+>URS000011107D_562 tRNA from Escherichia coli (PDB 4V4W, chain AU)
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-22.40)
+>URS000011107D_32630 A/T-site tRNA Phe from (PDB 4V69, chain AY)
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-22.40)
+>URS000080DE51_1423 engineered tRNAGly from Bacillus subtilis (PDB 4TZZ, chain K)
+GAGUAGUUCAGUGGUAGAACACCACCUUGCCAAGGUGGGGGUCGCGGGUUCGAAUCCCGUCUCGGGCGAAAGCCC
+.....((((.......)))).(((((((...)))))))(((..(((((.......))))))))((((....)))) (-28.10)
+>URS000080DE51_182710 tRNA-Gly from Oceanobacillus iheyensis (PDB 4LCK, chain B)
+GAGUAGUUCAGUGGUAGAACACCACCUUGCCAAGGUGGGGGUCGCGGGUUCGAAUCCCGUCUCGGGCGAAAGCCC
+.....((((.......)))).(((((((...)))))))(((..(((((.......))))))))((((....)))) (-28.10)
+>URS000080E2A7_562 TRNALEU5 UAA ISOACCEPTOR from Escherichia coli (PDB 3ZJV, chain B)
+GCCCGGAUGGUGGAAUCGGUAGACACAAGGGAUUUAAAAUCCCUCGGCGUUCGCGCUGUGCGGGUUCAAGUCCCGCUCCGGGUACCX
+(((((((..(((...........))).(((((((...)))))))(((((....))))).(((((.......)))))))))))).... (-36.60)
+>URS000080DE10_562 tRNA from Escherichia coli (PDB 3EQ4, chain Y)
+CGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGACCUGUGUUCGAUCCACAGAAUUCGCACCCUCCCGUAGGGGUU
+.......(((((...((((((.(.((....(((..((((.((((....))))))))..))).....)).).))))))...))))) (-25.70)
+>URS000080DE32_274 AT-SITE TRNA from Thermus thermophilus (PDB 4V68, chain AY)
+GCGGAUUUAGCUCAGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(.(((((.(((.(((((.....(((((.......)))))...))))).))).))))).)............. (-23.00)
+>URS000080E003_32630 GLUTAMINYL TRNA from (PDB 1EUQ, chain B)
+GGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGCAGCGAGGUUCGAAUCCUCGUACCCCAGCCA
+((((((((((...)))))......(((((.......)))))..((((((.......)))))))))))..... (-28.50)
+>URS000080E078_274 TRNAPHE from Thermus thermophilus (PDB 2IY5, chain T)
+GCCGAGGUAGCUCAGUUGGUAGAGCAUGCGACUGAAAAUCGCAGUGUCCGCGGUUCGAUUCCGCGCCUCGGCACCA
+((((((((.((((........)))).(((((.......)))))......((((.......)))))))))))).... (-32.00)
+>URS000080E15F_274 TRNALEU from Thermus thermophilus (PDB 2V0G, chain B)
+GCCGGGGUGGCGGAAUGGGUAGACGCGCAUGACUCAGGAUCAUGUGCGCAAGCGUGCGGGUUCAAGUCCCGCCCCCGGCACCX
+(((((((((.(......).))..((((((((((....).))))))))).......(((((.......)))))))))))).... (-37.70)
+>URS000080E302_562 P-site tRNA from Escherichia coli (PDB 4Z3S, chain 1x)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCX
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS000080DF41_32630 tRNA(Phe) from (PDB 3FOZ, chain C)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCUGGGCAC
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).. (-31.90)
+>URS000080E12B_32630 tRNA(Phe) from (PDB 3FOZ, chain D)
+CGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGC
+.(((((((((........)))).(((((((...))))))).)))))((((((((....)))).)))).. (-24.10)
+>URS000080E2E3_562 TRNALEU5 UAA ISOACCEPTOR from Escherichia coli (PDB 3ZJT, chain B)
+GGCCCGGAUGGUGGAAUCGGUAGACACAAGGGGUUUAAAAUCCCUCGGCGUUCGCGCUGUGCGGGUUCAAGUCCCGCUCCGGGUACCX
+.(((((((..(((...........))).(((((((...)))))))(((((....))))).(((((.......)))))))))))).... (-36.40)
+>URS000080E2F8_562 TRNA-LEU UAA ISOACCEPTOR from Escherichia coli (PDB 3ZGZ, chain B)
+GGCCCGGAUGGUGGAAUCGGUAGACACAAGGGAUUUAAAAUCCCUCGGCGUUCGCGCUGUGCGGGUUCAAGUCCCGCUCCGGGCACCA
+.(((((((..(((...........))).(((((((...)))))))(((((....))))).(((((.......)))))))))))).... (-38.70)
+>URS000041AF00_9823 tRNA from Sus scrofa (PDB 3J92, chain 2)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS000080DD6E_562 tRNA from Escherichia coli (PDB 3EP2, chain Y)
+CGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACC
+(((((((...((((((.((......)).)))))))))))))(((...(((((.......)))))..)))..... (-20.00)
+>URS000080E0B2_63363 selenocysteine tRNA from Aquifex aeolicus (PDB 3W3S, chain B)
+GGGAGAGGUUGGCCGGCUGGUGCCGCCCCGGGACUUCAAAUCCCGUGGGAGGUCCCGCAAGGGAGCUCCGGAGGGUUCGAUUCCCUCCCUCUCCCGCCA
+(((((((...(((.(((....)))))).(((((.......)))))..((((.((((....)))).))))((((((.......))))))))))))).... (-57.40)
+>URS000080E218_562 A-SITE tRNA from Escherichia coli (PDB 4V9I, chain AY)
+GGAGAGAUGCCGGAGCGGCUGAAGGACCGGUCUCGAAAACCGGAGUAGGGGCAACUCUACCGGGGGUUCAAAUCC
+...(((..(((((..(.......)..))))))))(((..((.(.((((((....))))))).))..)))...... (-26.10)
+>URS000041AF00_32630 TRNA-FMET from Thermus thermophilus,Escherichia coli (PDB 4V5A, chain AW)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS000080DEE6_32630 TRNA(THR) from (PDB 4GCW, chain B)
+GCUUCCAUAGCUCAGCAGGUAGAGCACUUCCAUGGUAAGGAAGAGGUCAGCGGUUCGAGCCCGCUUGGAAGCUUAA
+(((((((..(((((((.(.(.((.(.(((((.......))))).).))).).))).)))).....))))))).... (-27.00)
+>URS000080E1EE_271 tRNA from Thermus aquaticus (PDB 2Z9Q, chain A)
+CGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((...((((((.((......)).)))))))))))))(((...(((((.......)))))..)))...... (-20.00)
+>URS000080E2DD_32630 tRNA(Phe) from (PDB 1JGQ, chain D)
+UCCGUGAUAACAAAGCGGUUAUGUACCGGAUUUUUAUUCCGGCUAUCGGGGUUCAAUUCCCCGUCGCGGAGCCA
+(((((((((((......)))))...(((((.......)))))....(((((.......))))).)))))).... (-26.60)
+>URS000031D44F_9986 tRNA from Oryctolagus cuniculus (PDB 3J0P, chain Y)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACC
+(((((((..((((........)))).(((((((...))))))).....(((((.......))))))))))))... (-34.10)
+>URS00008FED43_358 TRNA-LEU TAA ISOACCEPTOR from Agrobacterium tumefaciens (PDB 5AH5, chain D)
+GCCCGCAUGGUGAAAUCGGUAAACACAUCGCACUUAAAAUGCGCCGCCUCUGGCUUGCCGGUUCAAGUCCGGCUGCGGGCACCA
+((((((((((((((.(((((((.......(((.......)))(((......))))))))))))))...)))..))))))).... (-30.60)
+>URS000080DF1A_274 Thermus thermophilus tRNAPhe from Thermus thermophilus (PDB 3TUP, chain T)
+GCCGAGGUAGCUCAGUUGGUAGAGCAUGCGACUGAAAAUCGCAGUGUCGGCGGUUCGAUUCUGCUCCUCGGCACCA
+(((((((....(((((((..........))))))).....((((.((((......)))).)))).))))))).... (-31.00)
+>URS000080DF5D_274 WILD-TYPE TRNATYR(GUA) from Thermus thermophilus (PDB 1H3E, chain B)
+GGGCAGGUUCCCGAGCGGCCAAAGGGGACGGUCUGUAAAACCGUUGGCGUAUGCCUUCGCUGGUUCGAAUCCAGCCCUGCCCACCA
+(((((((..(((...........)))((((((.......))))))(((....)))...(((((.......)))))))))))).... (-36.50)
+>URS000080DFE4_32630 TRNA (PHE) from (PDB 3Q1Q, chain C)
+GGCCAGGUAGCUCAGUUGGUAGAGCACUGGAUAUGGGCACCCCCUAAGUCCAGGUGUCGGCGGUUCGAUUCCGCCCCUGGCCACCA
+(((((((..((((........)))).((((((.((((.....)))).)))))).....(((((.......)))))))))))).... (-41.40)
+>URS000080E059_32630 tRNA from (PDB 2DU4, chain C)
+GCCAGGGUGGCAGAGGGGCUUUGCGGCGGACUGCAGAUCCGCUUUACCCCGGUUCGAAUCCGGGCCCUGGC
+((((((((((.((((.((.(((((((....))))))).)).)))).))((((.......)))))))))))) (-37.40)
+>URS000080E1EA_32630 TRNA(ARG) from (PDB 1F7U, chain B)
+UUCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUICGAACCAGAAGAUUCCAGGUUCAAGUCCUGGCGGGGAAGCCA
+((((((((((((....))))))....(((((.......))))).....(((((.......))))).)))))).... (-26.80)
+>URS000080E2D5_9823 A/P tRNA from Sus scrofa (PDB 3J7R, chain S5)
+GCCCGGAUAGCUCAGGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((......)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.20)
+>URS000080E382_2238 E-SITE TRNA ILE2 AGMATIDINE OR P-SITE TRNA ILE2 AGMATIDINE from Haloarcula marismortui (PDB 4V8N, chain CY)
+GGGCCCUUAGCUUAGUCUGGUUAAAGCGAUCGGCUXAUAACCGAUUGGGCGCUGGUUCGAAUCCGGCAGGGCCCACCA
+(((((((..((((((((.(((((.(((.....)))..)))))))))))))(((((.......)))))))))))).... (-38.80)
+>URS000041AF00_512 tRNA from Alcaligenes sp. (PDB 4V9Q, chain BW)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS0000715533_11786 tRNApro from Murine leukemia virus (PDB 2MS0, chain B)
+GGCUCGUUGGUCUAGGGGUAUGAUUCUCGCUUAGGGUGCGAGAGGUCCCGGGUUCAAAUCCCGGACGAGCC
+((((((((.(.....(((.....(((((((.......)))))))..)))((((....))))).)))))))) (-29.40)
+>URS000080DDE1_32630 tRNA from (PDB 3EPJ, chain E)
+CUCGUAUGGCGCAGUGGUAGCGCAGCAGAUUGCAAAUCUGUUGGUCCUUAGUUCGAUCCUGAGUGCGAG
+(((((((.((((.......))))((((((((...))))))))((((........))))....))))))) (-20.00)
+>URS000080E264_562 tRNA-Phe from Escherichia coli (PDB 6AZ1, chain 2)
+GCGCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGCGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-33.30)
+>URS000080E26B_32630 tRNA from (PDB 2DU5, chain D)
+GCCAGGGUGGCAGAGGGGCUUUGCGGCGGACUUCAGAUCCGCUUUACCCCGGUUCGAAUCCGGGCCCUGGC
+(((((((..((((((...))))))((((((.......))))))....(((((.......)))))))))))) (-35.00)
+>URS000080E29F_32630 bacterial tRNA from (PDB 3A2K, chain D)
+GGACCUUUAGCUCAGUUGGUUAGAGCAGACGGCUCAUAACCGUCCGGCCGUAGGUUCGAGUCCUACAAGGUCCACCA
+(((((((..(((....((((((((((.....)))).))))))...))).(((((.......)))))))))))).... (-29.40)
+>URS00008FED3A_4932 A/P hybrid tRNA from Saccharomyces cerevisiae (PDB 6I7O, chain nb)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUAGGAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+((((((((.......((((..((((.((((((..((.....))..)))))).))))....)))))))))))).... (-34.20)
+>URS00008FED3E_4932 tRNA from Saccharomyces cerevisiae (PDB 4YYE, chain D)
+GUUAUAUUAGCUUAAUUGGUAGAGCAUUCGUUUUGUAAUCGAAAGGUUUGGGGUUCAAAUCCCUAAUAUAACACCA
+(((((((((((((........))))...(.(((((....))))).)...(((((....)))))))))))))).... (-17.80)
+>URS000080E03E_562 A-site tRNA from Escherichia coli (PDB 1VY4, chain AW)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCX
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS000080E128_32630 tRNA from (PDB 2D6F, chain E)
+AGUCCCGUGGGGUAGUGGUAAUCCUGCUGGGCUUUGGACCCGGCGACAGCGGUUCGACUCCGCUCGGGACUACC
+(((((((.(.((.(((.(.(((((((((((((....).))))))...)).))))).))))).).)))))))... (-35.50)
+>URS000080E129_4932 EUKARYOTIC RIBOSOMAL PI TRNA from Saccharomyces cerevisiae (PDB 4V8Z, chain CW)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUCAUAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS000080E16C_32630 tRNA from (PDB 2DU6, chain D)
+GCCAGGGUGGCAGAGGGGCUUUGCGGCGGACUCUAGAUCCGCUUUACCCCGGUUCGAAUCCGGGCCCUGGC
+(((((((..((((((...))))))((((((.......))))))....(((((.......)))))))))))) (-35.00)
+>URS000080E2EE_562 A-SITE TRNA G24A TRP-TRNA TRP from Escherichia coli (PDB 4V5Q, chain CY)
+AGGGGCGUAGUUCAAUUGGUAGAACACCGGUCUCCAAAACCGGGUGUUGGGAGUUCGAGUCUCUCCGCCCCUGCCAW
+(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))..... (-27.80)
+>URS00000D2896_32630 tRNA-Arg from (PDB 2ZUE, chain B)
+GGACCGGUAGCCUAGCCAGGACAGGGCGGCGGCCUCCUAAGCCGCAGGUCCGGGGUUCAAAUCCCCGCCGGUCCGCCA
+((((((((..(((....)))...((((.(((((.......)))))..))))((((.......)))))))))))).... (-39.20)
+>URS0000541BD0_562 TRNAGLN from Escherichia coli (PDB 1GTS, chain B)
+GGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGCAUUCCGAGGUUCGAAUCCUCGUACCCCAGCCA
+((((((..(((.........))).(((((.......))))).....(((((.......)))))))))))..... (-27.30)
+>URS0000868542_1280 E-site tRNA from Staphylococcus aureus (PDB 5T7V, chain D)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCAC
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).. (-34.10)
+>URS000086855F_9986 E-site tRNA from Oryctolagus cuniculus (PDB 5LZV, chain 3)
+GCCCGGAUAGCUCAGCUGUAGAGCAUCAGACUUUUAAUCUGAGGGUCCAGGGUUCAAGUCCCUGUUCGGGCGCCA
+((((((((.((((.......))))))).((((((((...))))))))(((((.......)))))..))))).... (-29.10)
+>URS0000A76336_562 A/T tRNA(Phe) from Escherichia coli (PDB 5IQR, chain 6)
+GCCCGGAUAGCUCAGUUGGUAGAGCAGGGGAUUGAAAAUCCCCGUGXCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS0000637C08_562 tRNA Glu from Escherichia coli (PDB 5HR6, chain D)
+CCCCUUCGUCUAGAGGCCCAGGACACCGCCCUUUCACGGCGGUAACAGGGGUUCGAAUCCCCUAGGGG
+(((((..((((.........))))((((((.......))))))...(((((.......)))))))))) (-26.50)
+>URS0000868537_2336 tRNA from Thermotoga maritima (PDB 4YVK, chain C)
+UGGGAGGUCGUCUAACGGUAGGACGGCGGACUCUCGAUCCGCUGGUGGAGGUUCGAGUCCUCCCCUCCCAGCCA
+(((((((.........((.(((((..(((((.(((.(((....))).)))))))).)))))))))))))).... (-33.70)
+>URS0000B21DDE_4932 tRNA from Saccharomyces cerevisiae (PDB 5MRF, chain bb)
+GGCUACGUAGCUCAGUUGGUAGAGCACAUCACUCAUAAUGAUGGGGUCACAGGUUCGAAUCCCGUCGUAGCCACCA
+((((((((.((((........))))))............(((((((((........).)))))))))))))).... (-25.60)
+>URS00000B8EA0_2190 tRNACys from Methanocaldococcus jannaschii (PDB 5X6B, chain P)
+GCCGGGGUAGUCUAGGGGCUAGGCAGCGGACUGCAGAUCCGCCUUACGUGGGUUCAAAUCCCACCCCCGGCUCCA
+(((((((..((((((...)))))).(((((.......))))).....(((((.......)))))))))))).... (-35.30)
+>URS000011107D_274 tRNA Phe (unmodified bases) from Thermus thermophilus (PDB 4V4P, chain BC)
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-22.40)
+>URS0000868512_2336 tRNA from Thermotoga maritima (PDB 4YVJ, chain C)
+UGGGAGGUCGUCUAACGGUAGGACGGCGGACUCUUGAUCCGCUGGUGGAGGUUCGAGUCCUCCCCUCCCAGCCA
+(((((((.(((((.......)))))((((((....).)))))....(((((.......)))))))))))).... (-32.10)
+>URS000080DE1A_2320 selenocysteine tRNA from Methanopyrus kandleri (PDB 3ADB, chain C)
+GGCCGCCGCCACCGGGGUGGUCCCCGGGCCGGACUUCAGAUCCGGCGCGCCCCGAGUGGGGCGCGGGGUUCAAUUCCCCGCGGCGGCCGCCA
+(((((((((..((((((....))))))((((((.......))))))(((((((....)))))))((((.......))))))))))))).... (-70.10)
+>URS000080DFF5_562 tRNA fMET (unmodified bases) from Escherichia coli (PDB 4V4Z, chain AC)
+CGCGGGGUGGAGCAGCCGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((((((..((((((..(((..(((((.......))))).)))..))))))....))))..))))))..... (-32.00)
+>URS000041AF00_4932 P/E hybrid tRNA from Saccharomyces cerevisiae (PDB 6I7O, chain mb)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS000041AF00_9986 tRNA from Oryctolagus cuniculus (PDB 3J0Q, chain W)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS000031D44F_274 tRNA chain 2 from Thermus thermophilus (PDB 5AA0, chain BD)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACC
+(((((((..((((........)))).(((((((...))))))).....(((((.......))))))))))))... (-34.10)
+>URS00004FF598_32630 Glutaminyl tRNA from (PDB 1O0C, chain B)
+UGGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGCAUUCCGAGGUUCGAAUCCUCGUACCCCAGCCA
+(((((((..(((.........))).(((((.......))))).....(((((.......)))))))))))).... (-28.00)
+>URS00005AA258_3562 tRNA-Phe from Spinacia oleracea (PDB 5MMM, chain z)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS00005AA258_274 E-SITE TRNA from Thermus thermophilus (PDB 4V68, chain AW)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS000042DDAB_274 tRNA-Lys from Thermus thermophilus (PDB 5E81, chain 3K)
+GGGUCGUUAGCUCAGUUGGUAGAGCAGUUGACUUUUAAUCAAUUGGUCGCAGGUUCGAAUCCUGCACGACCCACCA
+(((((((((.(......).))((.(((((((.......))))))).))(((((.......)))))))))))).... (-28.60)
+>URS000027E1E5_274 E-SITE TRNA OF 70S RIBOSOME from Thermus thermophilus (PDB 486D, chain E)
+UCCGUGAUAGUUUAAUGGUCAGAAUGGGCGCUUGUCGCGUGCCAGAUCGGGGUUCAAUUCCCCGUCGCGGAG
+((((((((........((((....(((((((.....)))).)))))))((((.......)))))))))))). (-26.60)
+>URS0000326EAC_9986 P/E tRNA from Oryctolagus cuniculus (PDB 6HCJ, chain 33)
+AGCAGAGUGGCGCAGCGGAAGCGUGCUGGGCCCAUAACCCAGAGGUCGAUGGAUCGAAACCAUCCUCUGCUACCA
+(((((((.(((.(((((......))))).)))....(((....))).(((((.......)))))))))))).... (-30.30)
+>URS00000E7B03_32630 tRNA from (PDB 1WZ2, chain C)
+GCGGGGGUUGCCGAGCCUGGUCAAAGGCGGGGGACUCAAGAUCCCCUCCCGUAGGGGUUCCGGGGUUCGAAUCCCCGCCCCCGCACCA
+((((((((......((((......)))).(((((.((..((((((..(((....)))....)))))).)).))))))))))))).... (-46.00)
+>URS000042DDAB_4932 The A-site tRNA was modeled based on an E. coli tRNA-Lys from Saccharomyces cerevisiae (PDB 5GAK, chain A)
+GGGUCGUUAGCUCAGUUGGUAGAGCAGUUGACUUUUAAUCAAUUGGUCGCAGGUUCGAAUCCUGCACGACCCACCA
+(((((((((.(......).))((.(((((((.......))))))).))(((((.......)))))))))))).... (-28.60)
+>URS000009EE82_4932 P-site tRNA from Saccharomyces cerevisiae (PDB 5GAK, chain B)
+GGAGCGGUAGUUCAGUCGGUUAGAAUACCUGCCUGUCACGCAGGGGGUCGCGGGUUCGAGUCCCGUCCGUUCCGCCA
+(((((((..((((.........))))((((.(((((...))))))))).(((((.......)))))))))))).... (-28.10)
+>URS000032F6AC_9913 HIV-1 REVERSE TRANSCRIPTION PRIMER TRNA(LYS3) from Bos taurus (PDB 1FIR, chain A)
+GCCCGGAUAGCUCAGUCGGUAGAGCAUCAGACUUUUAAUCUGAGGGUCCAGGGUUCAAGUCCCUGUUCGGGCGCCA
+((((((((.((((........))))))).((((((((...))))))))(((((.......)))))..))))).... (-29.60)
+>URS000080E264_32630 Unmodified tRNAPhe from (PDB 3L0U, chain A)
+GCGCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGCGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-33.30)
+>URS000052BB59_32630 TRNA(GLU) from (PDB 1G59, chain B)
+GGCCCCAUCGUCUAGCGGUUAGGACGCGGCCCUCUCAAGGCCGAAACGGGGGUUCGAUUCCCCCUGGGGUCACCA
+(((((((.(((((........)))))(((((.......)))))....(((((.......)))))))))))).... (-35.80)
+>URS00004A988A_562 tRNAThr from Escherichia coli (PDB 6GSJ, chain 1K)
+GCUGAUAUAGCUCAGUUGGUAGAGCGCACCCUUGGUAAGGGUGAGGUCGGCAGUUCGACUCUGCCUAUCAGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-31.20)
+>URS00005AA258_1280 E-site tRNA CHAIN from Staphylococcus aureus (PDB 5TCU, chain D)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS00000E7B03_9986 tRNA-Leu from Oryctolagus cuniculus (PDB 3J5Y, chain D)
+GCGGGGGUUGCCGAGCCUGGUCAAAGGCGGGGGACUCAAGAUCCCCUCCCGUAGGGGUUCCGGGGUUCGAAUCCCCGCCCCCGCACCA
+((((((((......((((......)))).(((((.((..((((((..(((....)))....)))))).)).))))))))))))).... (-46.00)
+>URS000080DF1D_562 ESCHERICHIA COLI TRNA-LEU UAA ISOACCEPTOR from Escherichia coli (PDB 4CQN, chain B)
+GCCCGGAUGGUGGAAUCGGUAGACACAAGGGAUUAAUCCCUCGGCGCGCGCUGUGCGGGUUCAAGUCCCGCUCCGGGUACCA
+(((((((..(((...........))).(((((....)))))((((....)))).(((((.......)))))))))))).... (-33.00)
+>URS000080E250_32630 75-mer tRNA from (PDB 3WC1, chain Q)
+GCCAUCAUAGUAUAGUGGUCAUUAUAAAUCGUUGUGGCCGAUUAGACCCAAGUUCGAUUCUUGGUGAUGGCACCA
+(((((((..((.((((((((((...........)))))).)))).))(((((.......)))))))))))).... (-22.60)
+>URS000080E34F_562 A/T-site tRNA Phe from Escherichia coli (PDB 4V6K, chain BB)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGXCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS00005AA258_4932 EUKARYOTIC RIBOSOMAL P_E TRNA from Saccharomyces cerevisiae (PDB 4V8Y, chain CW)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS000009F4BF_274 tRNAVal from Thermus thermophilus (PDB 5IBB, chain 1L)
+GGGUGAUUAGCUCAGCUGGGAGAGCACCUCCCUUACAAGGAGGGGGUCGGCGGUUCGAUCCCGUCAUCACCCACCA
+(((((((.(((...)))(((((.....))))).......((.(((((((......))))))).))))))))).... (-34.60)
+>URS00005AA258_32630 tRNA from synthetic construct (PDB 3JCD, chain 8)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS000080DD64_562 A-SITE TRNA A9C TRP-TRNA TRP from Escherichia coli (PDB 4V5P, chain CY)
+AGGGGCGUCGUUCAAUUGGUAGAGCACCGGUCUCCAAAACCGGGUGUUGGGAGUUCGAGUCUCUCCGCCCCUGCCAW
+(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))..... (-27.80)
+>URS000080DE53_9823 P/E tRNA from Sus scrofa (PDB 3J7R, chain S6)
+UGCCCGGUAGCCCCGAAGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..(((.....)))...((((((((((...))))))).))).(((((.......))))).)))))))... (-30.60)
+>URS000080DE5D_562 A-SITE TRNA TRP-TRNA TRP from Escherichia coli (PDB 4V5R, chain CY)
+AGGGGCGUAGUUCAAUUGGUAGAGCACCGGUCUCCAAAACCGGGUGUUGGGAGUUCGAGUCUCUCCGCCCCUGCCAW
+(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))..... (-27.80)
+>URS000080E131_562 P-SITE TRNA OF 70S RIBOSOME from Escherichia coli (PDB 486D, chain A)
+UCCGUGAUAGUUUAAUGGUCAGAAUGCCAGACUGAAGAUCUGGAGAUCGGGGUUCAAUUCCCCGUCGCGGAGCC
+((((((((((((...((((......))))))))...((((....))))((((.......))))))))))))... (-24.60)
+>URS00005AA258_9986 tRNA from Oryctolagus cuniculus (PDB 3J0L, chain V)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS000057545F_274 tRNA-fMet from Thermus thermophilus (PDB 5E81, chain 2K)
+CGCGGGGUGGAGCAGCCCGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS000020A9DB_32630 tRNA(Tyr) from (PDB 1J1U, chain B)
+CCGGCGGUAGUUCAGCCUGGUAGAACGGCGGACUGUAGAUCCGCAUGUCGCUGGUUCAAAUCCGGCCCGCCGGACCA
+(((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))).... (-30.40)
+>URS000035465A_5691 E-SITE TRNA from Trypanosoma brucei (PDB 4V8M, chain AB)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))). (-34.10)
+>URS00005AD0B9_4565 P-site tRNA from Triticum aestivum (PDB 4V7E, chain Ae)
+UCCGUGAUAGUUUAAUGGUCAGAAUGGGCGCUUGUCGCGUGCCAGAUCGGGGUUCAAUUCCCCGUCGCGGAGCCA
+((((((((........((((....(((((((.....)))).)))))))((((.......)))))))))))).... (-26.60)
+>URS000057545F_562 tRNA-fMET from Escherichia coli (PDB 4WQ1, chain 2K)
+CGCGGGGUGGAGCAGCCCGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS000037E2FF_32630 tRNA from (PDB 2DEU, chain C)
+GUCCCCUUCGUCUAGAGGCCCAGGACACCGCCCUUUCACGGCGGUAACAGGGGUUCGAAUCCCCUAGGGGACGCCA
+(((((((..((((.........))))((((((.......))))))...(((((.......)))))))))))).... (-32.80)
+>URS0000D77936_562 tRNA Mixture from Escherichia coli (PDB 6H58, chain ww)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCUGGCUCAUAACCAGAAGAUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-28.80)
+>URS0000E60BA3_4932 E-site tRNA from Saccharomyces cerevisiae (PDB 6Q8Y, chain m)
+UCCGAUAUAGCGUAACGGCUAUCACAUCACGCUUUCACCGUGGAGACCGGGGUUCGACUCCCCGUAUCGGAGCCA
+(((((((((((......))))...(.(((((.......))))).)..(((((.......)))))))))))).... (-23.80)
+>URS0000D77942_9823 CP tRNAPhe, mitochondrial from Sus scrofa (PDB 6GB2, chain BB)
+GUUAAUGUAGCUUAAAUUAUCAAAGCAAGGCACUGAAAAUGCCUAGAUGAGCCUCACAGCUCCAUAAACACCA
+(((.(((.((((.......(((...(.(((((.......))))).).))).......)))).))).))).... (-14.50)
+>URS0000D77933_274 P-site tRNA from Thermus thermophilus (PDB 5ZLU, chain DD)
+CGCGGGGUGGAGCAGCCCGGUAGCUCGUCGGGCACAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS0000E60B6B_4932 tRNAi from Saccharomyces cerevisiae (PDB 6FYY, chain 1)
+AGCGCCGUGGCGCAGUGGAAGCGCGCAGGGCUCAUAACCCUGAUGUCCUCGGAUCGAAACCGAGCGGCGCUACCAX
+(((((((..((((.......)))).(((((.......))))).....(((((.......))))))))))))..... (-32.10)
+>URS0000E60BDA_4932 P-site tRNA from Saccharomyces cerevisiae (PDB 6Q8Y, chain n)
+UUCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUACGAACCAGAAGAUUCCAGGUUCAAGUCCUGGCGGGGAAGCCA
+((((((((((((....))))))....(((((.......))))).....(((((.......))))).)))))).... (-26.80)
+>URS0000D77932_562 tRNAArg from Escherichia coli (PDB 6GSL, chain 1K)
+GCAUCCGUAGCUCAGCUGGAUAGAGUACUCGGXUICGAACCGAGCGGXCGGAGGUUCGAAUCCUCCCGGAUGCACCA
+(((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))).... (-28.50)
+>URS000011107D_5541 P/E tRNA from Thermomyces lanuginosus (PDB 4V7H, chain A7)
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-22.40)
+>URS000011107D_9913 tRNA-Phe from Bos taurus (PDB 3IZY, chain N)
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-22.40)
+>URS0000A763A1_562 A-site Lysine tRNA Lysine from Escherichia coli (PDB 5JTE, chain AW)
+GGGUCGUUAGCUCAGGGUAGAGCAGUUGACUUUUAAUCAAUUGGXCGCAGGUUCGAAUCCUGCACGACCCACCA
+(((((((..((((......))))((((((.......))))))....(((((.......)))))))))))).... (-27.20)
+>URS000015A751_32630 tRNA glycine from (PDB 4MGM, chain B)
+GCGGAAGUAGUUCAGUGGUAGAACACCACCUUGCCAAGGUGGGGGUCGCGGGUUCGAGUCCCGUCUUCCGCUCCA
+(((((((..((((.......)))).(((((((...)))))))(((.(.((....)).).)))..))))))).... (-30.00)
+>URS0000B21E07_562 tRNA (76-MER) from Escherichia coli (PDB 5L4O, chain A)
+AGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGAUCGUCGGUUCAAAUCCGGCCCCCGCUACCA
+(((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))).... (-31.10)
+>URS00005AA258_9913 TRNA-PHE from Bos taurus (PDB 4UJE, chain AW)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS000080DE52_32630 GLUTAMINE TRNA APTAMER from (PDB 1EXD, chain B)
+GGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGAGGUCGAGGUUCGAAUCCUCGUACCCCAGCCA
+(((((((.(((....)))..(((.(((((.......)))))..)))((((.......)))))))))))..... (-28.70)
+>URS000080E067_2238 A-SITE TRNA ILE2 AGMATIDINE from Haloarcula marismortui (PDB 4V8N, chain CW)
+GGGCCCUUAGCUUAGUCUGGUUAAAGCGAUCGGCUCAUAACCGAUUGGGCGCUGGUUCGAAUCCGGCAGGGCCCACCA
+(((((((..((((((((.(((((.(((.....)))..)))))))))))))(((((.......)))))))))))).... (-38.80)
+>URS000080E345_562 tRNA from Escherichia coli (PDB 4W29, chain AX)
+GGGUGAUUAGCUCAGCUGGGAGAGCACCUCCCUUACAAGGAGGGGGUCGGCGGUUCGAUCCCGUCAUCACCCACCAVX
+(((((((.(((...)))(((((.....))))).......((.(((((((......))))))).)))))))))...... (-34.60)
+>URS00004630EA_32630 TRNA-LEU from synthetic construct (PDB 4V87, chain BB)
+GCCGAGGUGGUGGAAUUGGUAGACACGCUACCUUGAGGUGGUAGUGCCCAAUAGGGCUUACGGGUUCAAGUCCCGUCCUCGGUACCA
+((((((((((.((....(((((.....)))))(((((.(.((((.((((....)))))))).).))))).))))).))))))).... (-36.90)
+>URS000080DE34_32630 TRNA(THR) from (PDB 2FK6, chain R)
+GCUUCCAUAGCUCAGCAGGUAGAGCACUUCCAUGGUAAGGAAGAGGUCAGCGGUUCGAGCCCGCUUGGAAGCUUAAAUG
+(((((((..(((((((.(.(.((.(.(((((.......))))).).))).).))).)))).....)))))))....... (-27.00)
+>URS000080DE47_274 TRNAPRO(CGG) from Thermus thermophilus (PDB 1H4Q, chain T)
+CGGGGAGUAGCGCAGCCCGGUAGCGCACCUCGUUCGGGACGAGGGGGGCGCUGGUUCAGAUCCAGUCUCCCCGACCA
+(((((((..((((.........)))).(((((((...))))))).....(((((.......)))))))))))).... (-33.80)
+>URS000080E18C_274 A-SITE TRNA THR from Thermus thermophilus (PDB 4V5G, chain CY)
+GCUGAUAUAGCUCAGUUGGUAGAGCGCACCCUUGGUGAGGGUGAGGUCGGCAGUUCGAAUCUGCCUAUCAGCACCAU
+(((((((..((((........)))).(((((((...))))))).....(((((.......))))))))))))..... (-31.60)
+>URS000080E1BC_274 TRNALEU TRANSCRIPT WITH ANTICODON CAG from Thermus thermophilus (PDB 2BYT, chain B)
+GCCGGGGUGGCGGAAUGGGUAGACGCGCAUGACUCAGGAUCAUGUGCGCAAGCGUGCGGGUUCAAGUCCCGCCCCCGGCACCA
+(((((((((.(......).))..((((((((((....).))))))))).......(((((.......)))))))))))).... (-37.70)
+>URS000080E2D5_9986 A/P tRNA from Oryctolagus cuniculus (PDB 6HCQ, chain q3)
+GCCCGGAUAGCUCAGGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((......)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.20)
+>URS000080E03E_32630 tRNA from synthetic construct (PDB 3JCE, chain 6)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCX
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS000080E050_274 E-site tRNA from Thermus thermophilus (PDB 4V4J, chain 2)
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAAAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-22.40)
+>URS00008116B8_274 tRNA(his) from Thermus thermophilus (PDB 4RDX, chain C)
+GGUGAGCGUAGCUCAGCUGGUUAGAGCACCGGACUGUGGAUCCGGGGGUCGUGGGUUCAAGUCCCAUCGCUCACCCCA
+((((((((..((((.........))))...(((((.((((((((.(...).)))))))))))))...))))))))... (-34.00)
+>URS00004A2E91_32630 TRNA(VAL) from (PDB 1GAX, chain C)
+GGGCGGCUAGCUCAGCGGAAGAGCGCUCGCCUCACACGCGAGAGGUCGUAGGUUCAAGUCCUACGCCGCCCACCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-34.00)
+>URS000080DF89_32630 tRNA(Val) from (PDB 1J2B, chain C)
+GGGCCCGUGGUCUAGUUGGUCAUGACGCCGCCCUUACGAGGCGGAGGUCCGGGGUUCAAGUCCCCGCGGGCCCACCA
+((((((((((...(.((((((..(((.((((((....).)))))..)))..))..)))).)..)))))))))).... (-38.10)
+>URS000080E16B_562 tRNA-Gln from Escherichia coli (PDB 4V7L, chain AY)
+UGGGGUAUCGCCAAGCGGUAAGGCACCGGAUUGUGAUUCCGGCUUUCCGAGGUUCGAAUCCUCGUACCCCAGCCA
+(((((((..(((.........))).(((((.......))))).....(((((.......)))))))))))).... (-28.00)
+>URS000041AF00_274 P-SITE TRNA from Thermus thermophilus (PDB 4V68, chain AV)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS000080DE00_32630 tRNA ASL human mitochondrial Met from synthetic construct (PDB 4GKJ, chain X)
+UCGGGCCXAUACCCCGA
+(((((.......))))) ( -5.60)
+>URS000080E16B_1905730 tRNA-Gln from Pectobacterium parmentieri (PDB 4V7M, chain CY)
+UGGGGUAUCGCCAAGCGGUAAGGCACCGGAUUGUGAUUCCGGCUUUCCGAGGUUCGAAUCCUCGUACCCCAGCCA
+(((((((..(((.........))).(((((.......))))).....(((((.......)))))))))))).... (-28.00)
+>URS000041AF00_140381 P-site tRNA-fMet from Limbella pachyloma (PDB 4TUE, chain QV)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS000031D44F_1280 P-site tRNA CHAIN from Staphylococcus aureus (PDB 5TCU, chain E)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACC
+(((((((..((((........)))).(((((((...))))))).....(((((.......))))))))))))... (-34.10)
+>URS000080E0EE_32630 GLUTAMINYL TRNA from (PDB 1EUY, chain B)
+UGGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGCAAGCGAGGUUCGAAUCCUCGUACCCCAGCCA
+(((((((((((...)))))......(((((.......)))))...((((((.......)))))))))))).... (-29.20)
+>URS0000E60B80_562 tRNA-Phe from Escherichia coli (PDB 6Q95, chain 8)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUUUUAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS00002905B5_308052 tRNA (76-MER) from Mitsuaria sp. 67 (PDB 4WT8, chain D4)
+GCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.50)
+>URS000035398D_5833 E-site tRNA from Plasmodium falciparum (PDB 6OKK, chain g)
+GGGUAAUUGGCGCAGUUGGUUAGCGCGCGGGUCUCAUAAUCCCGAGGUCGUGAGUUCGAUCCUCACAUUACCCA
+(((((((..((((.(((....)))))))(((.........)))(((((((......))).))))..))))))). (-27.40)
+>URS000002EA11_32630 tRNAGln from synthetic construct (PDB 3AL0, chain E)
+UGGGAGGUCGUCUAACGGUAGGACGGCGGACUCUGGAUCCGCUGGUGGAGGUUCGAGUCCUCCCCUCCCAGCCA
+(((((((((((((.......)))))))((((((.(((((..(....)..)))))))))))....)))))).... (-32.60)
+>URS00002D9DE2_32630 TRNA-TYR from (PDB 4V8E, chain BD)
+GGUGGGGUUCCCGAGCGGCCAAAGGGAGCAGACUGUAAAUCUGCCGUCAUCGACUUCGAAGGUUCGAAUCCUUCCCCCACCACCA
+(((((((.((((...........))))(((((.......))))).(((...)))...(((((.......)))))))))))).... (-31.70)
+>URS0000E60BC5_562 E-site tRNA Valine from Escherichia coli (PDB 5JU8, chain AY)
+GGGUGAUUAGCUCAGGGGAGAGCACCUCCCUNACAAGGAGGGGGUCGGCGGUUCGAUCCCGUCAUCACCCA
+(((((((.......((((((.....))))))......((.(((((((......))))))).))))))))). (-34.20)
+>URS000080DF23_32630 Phe-tRNA from (PDB 1QZA, chain B)
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACC
+(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))... (-22.40)
+>URS00008FED32_562 glycine-tRNA from Escherichia coli (PDB 3JBU, chain v)
+CGGCACGUAGCGCAGCCGGUAGCGCACCGUCAUGCCGUGUCGGGGGUCGGAGGUUCAAAUCCUCUCGUGCCGACCA
+(((((((..((((........)))).(((.(((...))).))).....(((((.......)))))))))))).... (-29.70)
+>URS0000115891_32630 Glutaminyl-tRNA from (PDB 1ZJW, chain B)
+GGGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGCAUUCCGAGGUUCGAAUCCUCGUACCCCAGCCA
+.((((((..(((.........))).(((((.......))))).....(((((.......)))))))))))..... (-27.00)
+>URS00001BBAFC_274 P-tRNA from Thermus thermophilus (PDB 3J9Z, chain S6)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGAUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS0000D77911_4932 pre-tRNA from Saccharomyces cerevisiae (PDB 6AH3, chain T)
+AGAAGCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCAUUU
+....(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-22.20)
+>URS000080E1DE_28985 Met-tRNAi (U31:A39 variant) from Kluyveromyces lactis (PDB 3JAP, chain 1)
+AGCGCCGUGGCGCAGUGGAAGCGCGCAGGUCUCAUAAACCUGAUGUCCUCGGAUCGAAACCGAGCGGCGCUACCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-30.10)
+>URS000080E1DE_32630 Met-tRNAi from (PDB 3J81, chain 1)
+AGCGCCGUGGCGCAGUGGAAGCGCGCAGGUCUCAUAAACCUGAUGUCCUCGGAUCGAAACCGAGCGGCGCUACCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-30.10)
+>URS000080DFDE_274 tRNA PHE (unmodified bases) from Thermus thermophilus (PDB 4V4X, chain AD)
+GCCGAGGUAGCUCAGUUGGUAGAGCAUGCGACUGAAAAUCGCAGUGUCGGCGGUUCGAUUCCGCUCCUCGGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-30.60)
+>URS000041AF00_562 Escherichia coli tRNA-fMet (CAT) (tRNA-fMet-CAT-1 1 to 4)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS00005ABD4E_562 Escherichia coli tRNA-Leu (TAA) (tRNA-Leu-TAA-1-1)
+GCCCGGAUGGUGGAAUCGGUAGACACAAGGGAUUUAAAAUCCCUCGGCGUUCGCGCUGUGCGGGUUCAAGUCCCGCUCCGGGUACCA
+(((((((..(((...........))).(((((((...)))))))(((((....))))).(((((.......)))))))))))).... (-36.60)
+>URS00005F0912_562 Escherichia coli tRNA-Ala (TGC) (tRNA-Ala-TGC-1 1 to 4)
+GGGGCUAUAGCUCAGCUGGGAGAGCGCCUGCUUUGCACGCAGGAGGUCUGCGGUUCGAUCCCGCAUAGCUCCACCA
+((((((((.(((((((((..(((.(.(((((.......))))).).))).))))).))....)))))))))).... (-31.80)
+>URS00003A6DC6_562 Escherichia coli tRNA-Trp (CCA) (tRNA-Trp-CCA-1-1, tRNA-Trp-CCA-1-2)
+AGGGGCGUAGUUCAAUUGGUAGAGCACCGGUCUCCAAAACCGGGUGUUGGGAGUUCGAGUCUCUCCGCCCCUGCCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-27.80)
+>URS00001ACE3E_562 Escherichia coli tRNA-Gly (GCC) (tRNA-Gly-GCC-1 1 to 4)
+GCGGGAAUAGCUCAGUUGGUAGAGCACGACCUUGCCAAGGUCGGGGUCGCGAGUUCGAGUCUCGUUUCCCGCUCCA
+(((((((..((((........)))).(((((((((....).))))))))((((.......)))).))))))).... (-32.20)
+>URS0000093D11_562 Escherichia coli tRNA-Met (CAT) (tRNA-Met-CAT-1-1, tRNA-Met-CAT-1-2)
+GGCUACGUAGCUCAGUUGGUUAGAGCACAUCACUCAUAAUGAUGGGGUCACAGGUUCGAAUCCCGUCGUAGCCACCA
+((((((((.((((.........))))))............(((((((((........).)))))))))))))).... (-24.70)
+>URS00005AA258_562 Escherichia coli tRNA-Phe (GAA) (tRNA-Phe-GAA-1-1, tRNA-Phe-GAA-1-2)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS000022C879_562 Escherichia coli tRNA-Thr (CGT) (tRNA-Thr-CGT-1-1)
+GCCGAUAUAGCUCAGUUGGUAGAGCAGCGCAUUCGUAAUGCGAAGGUCGUAGGUUCGACUCCUAUUAUCGGCACCA
+(((((((..((((........))))..((((((...))))))..(((((......))))).....))))))).... (-26.40)
+>URS000009EE82_562 Escherichia coli tRNA-Asp (GTC) (tRNA-Asp-GTC-1 1 to 4)
+GGAGCGGUAGUUCAGUCGGUUAGAAUACCUGCCUGUCACGCAGGGGGUCGCGGGUUCGAGUCCCGUCCGUUCCGCCA
+(((((((..((((.........))))((((.(((((...))))))))).(((((.......)))))))))))).... (-28.10)
+>URS000052A6C3_562 Escherichia coli tRNA-Val (GAC) (tRNA-Val-GAC-1-1)
+GCGUCCGUAGCUCAGUUGGUUAGAGCACCACCUUGACAUGGUGGGGGUCGGUGGUUCGAGUCCACUCGGACGCACCA
+(((((((..((((.........)))).(((((.......)))))(((((((....)))).)))...))))))).... (-31.40)
+>URS000042DDAB_562 Escherichia coli tRNA-Lys (TTT) (tRNA-Lys-TTT-1 1 to 6)
+GGGUCGUUAGCUCAGUUGGUAGAGCAGUUGACUUUUAAUCAAUUGGUCGCAGGUUCGAAUCCUGCACGACCCACCA
+(((((((((.(......).))((.(((((((.......))))))).))(((((.......)))))))))))).... (-28.60)
+>URS00002C7A07_1423 Bacillus subtilis tRNA-Asp (GTC) (tRNA-Asp-GTC-1 1 to 4)
+GGUCCGGUAGUUCAGUUGGUUAGAAUGCCUGCCUGUCACGCAGGAGGUCGCGGGUUCGAGUCCCGUCCGGACCGCCA
+(((((((..((((.........))))((((.(((((...))))))))).(((((.......)))))))))))).... (-31.20)
+>URS00001BBAFC_562 Escherichia coli tRNA-fMet (CAT) (tRNA-fMet-CAT-2-1)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGAUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS000037E2FF_562 Escherichia coli tRNA-Glu (TTC) (tRNA-Glu-TTC-1 1 to 7)
+GUCCCCUUCGUCUAGAGGCCCAGGACACCGCCCUUUCACGGCGGUAACAGGGGUUCGAAUCCCCUAGGGGACGCCA
+(((((((..((((.........))))((((((.......))))))...(((((.......)))))))))))).... (-32.80)
+>URS00005B2D1B_562 Escherichia coli tRNA-Thr (GGT) (tRNA-Thr-GGT-1-1)
+GCUGAUAUAGCUCAGUUGGUAGAGCGCACCCUUGGUAAGGGUGAGGUCGGCAGUUCGAAUCUGCCUAUCAGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-31.20)
+>URS00004FF598_562 Escherichia coli tRNA-Gln (CTG) (tRNA-Gln-CTG-1-1, tRNA-Gln-CTG-1-2)
+UGGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGCAUUCCGAGGUUCGAAUCCUCGUACCCCAGCCA
+(((((((..(((.........))).(((((.......))))).....(((((.......)))))))))))).... (-28.00)
+>URS000003E908_562 Escherichia coli tRNA-Cys (GCA) (tRNA-Cys-GCA-1-1)
+GGCGCGUUAACAAAGCGGUUAUGUAGCGGAUUGCAAAUCCGUCUAGUCCGGUUCGACUCCGGAACGCGCCUCCA
+(((((((((((......))))..(((((((((...)))))).))).(((((.......)))))))))))).... (-28.30)
+>URS000009F4BF_562 Escherichia coli tRNA-Val (TAC) (tRNA-Val-TAC-1 1 to 5)
+GGGUGAUUAGCUCAGCUGGGAGAGCACCUCCCUUACAAGGAGGGGGUCGGCGGUUCGAUCCCGUCAUCACCCACCA
+(((((((.(((...)))(((((.....))))).......((.(((((((......))))))).))))))))).... (-34.60)
+>URS00004630EA_562 Escherichia coli tRNA-Leu (GAG) (tRNA-Leu-GAG-1-1)
+GCCGAGGUGGUGGAAUUGGUAGACACGCUACCUUGAGGUGGUAGUGCCCAAUAGGGCUUACGGGUUCAAGUCCCGUCCUCGGUACCA
+((((((((((.((....(((((.....)))))(((((.(.((((.((((....)))))))).).))))).))))).))))))).... (-36.90)
+>URS00000FF435_562 Escherichia coli tRNA-Ile (GAT) (tRNA-Ile-GAT-1 1 to 4)
+AGGCUUGUAGCUCAGGUGGUUAGAGCGCACCCCUGAUAAGGGUGAGGUCGGUGGUUCAAGUCCACUCAGGCCUACCA
+(((((((.......(((((((.((((.(((((((.((....)).)))..)))))))).)).)))))))))))).... (-28.80)
+>URS00001DEEBE_562 Escherichia coli tRNA-Pro (CGG) (tRNA-Pro-CGG-1-1)
+CGGUGAUUGGCGCAGCCUGGUAGCGCACUUCGUUCGGGACGAAGGGGUCGGAGGUUCGAAUCCUCUAUCACCGACCA
+(((((((.((((.(((((....((.(.(((((((...)))))))).))...)))))))...))...))))))).... (-27.70)
+>URS000034D020_562 Escherichia coli tRNA-Pro (GGG) (tRNA-Pro-GGG-1-1)
+CGGCACGUAGCGCAGCCUGGUAGCGCACCGUCAUGGGGUGUCGGGGGUCGGAGGUUCAAAUCCUCUCGUGCCGACCA
+(((((((...((.(.(((.(..((((.((......))))))).))).)))((((.......)))).))))))).... (-28.90)
+>URS00002D9DE2_562 Escherichia coli tRNA-Tyr (GTA) (tRNA-Tyr-GTA-2-1, tRNA-Tyr-GTA-2-2, tRNA-Tyr-GTA-3-1)
+GGUGGGGUUCCCGAGCGGCCAAAGGGAGCAGACUGUAAAUCUGCCGUCAUCGACUUCGAAGGUUCGAAUCCUUCCCCCACCACCA
+(((((((.((((...........))))(((((.......))))).(((...)))...(((((.......)))))))))))).... (-31.70)
+>URS000044D8E3_287 Pseudomonas aeruginosa tRNA-Asn (GTT) (tRNA-Asn-GTT-1-1, tRNA-Asn-GTT-1-2)
+UCCGCGAUAGCUCAGUCGGUAGAGCAAAUGACUGUUAAUCAUUGGGUCCCUGGUUCGAGUCCAGGUCGCGGAGCCA
+(((((((..(((((((.(((..((((......)))).)))))))))).(((((.......)))))))))))).... (-26.80)
+>URS00004EDC72_2336 Thermotoga maritima tRNA-Phe (GAA) (tRNA-Phe-GAA-1-1)
+GGCCAGGUAGCUCAGUUGGUAGAGCACUGGACUGAAAAUCCAGGUGUCGGCGGUUCGAUUCCGCCCCUGGCCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-34.60)
+>URS00005AA258_633 Yersinia pseudotuberculosis tRNA-Phe (GAA) (tRNA-Phe-GAA-1-1, tRNA-Phe-GAA-1-2)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS000002EA11_2336 Thermotoga maritima tRNA-Gln (CTG) (tRNA-Gln-CTG-1-1)
+UGGGAGGUCGUCUAACGGUAGGACGGCGGACUCUGGAUCCGCUGGUGGAGGUUCGAGUCCUCCCCUCCCAGCCA
+(((((((((((((.......)))))))((((((.(((((..(....)..)))))))))))....)))))).... (-32.60)
+>URS00002F9CDD_562 Escherichia coli tRNA-SeC (TCA) (tRNA-SeC-TCA-1-1)
+GGAAGAUCGUCGUCUCCGGUGAGGCGGCUGGACUUCAAAUCCAGUUGGGGCCGCCAGCGGUCCCGGGCAGGUUCGACUCCUGUGAUCUUCCGCCA
+((((((((..((((((....))))))((((((.......))))))((((((((....)))))))).(((((.......))))))))))))).... (-46.90)
+>URS000080E234_1280 ISOLEUCYL-TRNA from Staphylococcus aureus (PDB 1QU2, chain T)
+GGGCUUGUAGCUCAGGUGGUUAGAGCGCACCCCUGAUAAGGGUGAGGUCGGUGGUUCAAGUCCACUCAGGCCCAC
+(((((((.......(((((((.((((.(((((((.((....)).)))..)))))))).)).)))))))))))).. (-31.50)
+>URS000080DEBB_32630 76mer-tRNA from (PDB 3WC2, chain Q)
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGUGGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((..((((........))))......(((((((((.(((.(.....).))))))))))))))))))).... (-26.50)
+>URS0000868542_274 E-tRNA from Thermus thermophilus (PDB 3J9Z, chain S7)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCAC
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).. (-34.10)
+>URS0000868517_562 P/E-tRNA from Escherichia coli (PDB 3JBO, chain 7)
+CGCGGGGUGGAGCAGCCGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACC
+.((((((((((..((((((..(((..(((((.......))))).)))..))))))....))))..)))))).... (-32.00)
+>URS0000A76379_562 deacylated A/R-tRNA from Escherichia coli (PDB 5L3P, chain y)
+GCUGAUAUAGCUCAGUUGGUAGAGCGCACCCUUGGUGAGGGUGAGGUCGGCAGUUCGAAUCUGCCUAUCAGCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))). (-31.60)
+>URS0000A76384_562 initiator Met-tRNA fMet from E. coli (A1U72 variant) from Escherichia coli (PDB 5JB3, chain 4)
+GCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGAUCGUCGGUUCAAAUCCGGCCCCCGCUACCA
+((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.00)
+>URS000080E2DD_274 p/E-tRNA from Thermus thermophilus (PDB 2OM7, chain M)
+UCCGUGAUAACAAAGCGGUUAUGUACCGGAUUUUUAUUCCGGCUAUCGGGGUUCAAUUCCCCGUCGCGGAGCCA
+(((((((((((......)))))...(((((.......)))))....(((((.......))))).)))))).... (-26.60)
+>URS000028779A_9986 pe/E-site-tRNA from Oryctolagus cuniculus (PDB 6GZ4, chain Bw)
+GCGGACUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAGUUCGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-24.70)
+>URS00005EC276_2261 P-tRNA from Pyrococcus furiosus (PDB 4V6U, chain A0)
+GCCGCCGUAGCUUAGCUGGUGGAGCGCCGGACUGUUAAUCCGGCGGUCCCCGGUUCGAAUCCGGGCGGCGGCGCCA
+((((((((.....((((((.(((.(((((((.......))))))).))))))))).........)))))))).... (-44.30)
+>URS00008116A7_562 P-site fMet-tRNAfMet from Escherichia coli (PDB 3J9Y, chain v)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGAUCGUCGGUUCAAAUCCGGCCCCCGCAACCAM
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))...... (-30.30)
+>URS00005AA258_1772 P/P-site Phe-tRNA(Phe) from Mycolicibacterium smegmatis (PDB 5O61, chain BW)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS0000D77907_562 P-tRNA(Leu) from Escherichia coli (PDB 6HA8, chain x)
+GCCGAGGUGGUGGAAUUGGUAGACACGCUACCUUGAGGUGGUAGUUUACGGGUUCAAGUCCCGUCCUCGGUACCA
+((((((((((..(((((.((((((..((((((....)))))).)))))).))))).....))).))))))).... (-34.20)
+>URS0000B21DD1_562 fMet-NH-tRNA(fMet) from Escherichia coli (PDB 5MDV, chain 5)
+CGCGGGGUUGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGAUCGUCGGUUCAAAUCCGGCCCCCGCAACCAM
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))...... (-30.20)
+>URS0000A76396_562 P-site fMet-tRNA(fMet) from Escherichia coli (PDB 5IQR, chain 5)
+CGCGGGGUUGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGAUCGUCGGUUCAAAUCCGGCCCCCGCAACCAX
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))...... (-30.20)
+>URS000080DD9A_562 FORMYL-METHIONYL-TRNA from Escherichia coli (PDB 1EG0, chain O)
+CGCGGGGUGGAGCAGCCGGUAGCUCGUCGGGCUCAUAACCCGAAGAUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((((((..((((((..(.((.(((((.......))))).)).).))))))....))))..))))))..... (-32.30)
+>URS000080E234_32630 ISOLEUCYL-TRNA from (PDB 1FFY, chain T)
+GGGCUUGUAGCUCAGGUGGUUAGAGCGCACCCCUGAUAAGGGUGAGGUCGGUGGUUCAAGUCCACUCAGGCCCAC
+(((((((.......(((((((.((((.(((((((.((....)).)))..)))))))).)).)))))))))))).. (-31.50)
+>URS00001D39A7_2190 E-tRNA from Methanocaldococcus jannaschii (PDB 4V4N, chain B1)
+GGGGCGGUAGCUCAGCCUGGGAGAGCACCGGACUGAAGAUCCGGGUGUCGGGGGUUCAAAUCCCCCCCGCCCCACCA
+(((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))).... (-37.50)
+>URS00001D39A7_2261 E-tRNA from Pyrococcus furiosus (PDB 4V6U, chain A1)
+GGGGCGGUAGCUCAGCCUGGGAGAGCACCGGACUGAAGAUCCGGGUGUCGGGGGUUCAAAUCCCCCCCGCCCCACCA
+(((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))).... (-37.50)
+>URS0000490B64_274 tRNA from Thermus thermophilus (PDB 3B0V, chain A)
+GCCGAGGUAGCUCAGUUGGUAGAGCAUGCGACUGAAAAUCGCAGUGUCGGCGGUUCGAUUCCGCCCCUCGGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-33.10)
+>URS000084076E_562 P-site tRNA from Escherichia coli (PDB 5H5U, chain 5)
+CGCGGGGUGGAGCAGCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))..... (-31.20)
+>URS00006143B5_274 tRNA-Asn from Thermus thermophilus (PDB 3KFU, chain K)
+UCCGCGGUAGCUCAGCAGGUAGAGCAGCCGGCUGUUAACCGGUAGGUCGCAGGUUCGAGUCCUGCCCGCGGAGCCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-32.90)
+>URS000077ECB7_562 tRNAArg from Escherichia coli (PDB 6GSL, chain 3K)
+GCAUCUGUAGCUCAGCUGGAUAGAGUACUCGGCUACGAACCGAGCGGUCGGAGGUUCGAAUCCUCCCGGAUGCACCA
+(((((((((((...))))....((.(.(((((.......))))).).))(((((.......)))))))))))).... (-27.30)
+>URS000041AF00_28901 P-site tRNA from Salmonella enterica (PDB 6CFJ, chain 1x)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS00005AA258_28901 E site tRNA from Salmonella enterica (PDB 5IMQ, chain 5)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((((...))))))).....(((((.......)))))))))))).... (-34.10)
+>URS0000D7792C_562 P-site tRNA SufA6 from Escherichia coli (PDB 5VPP, chain QV)
+CGGUGAUUGGCGCAGCCUGGUAGCGCACUUCGUUCGGGGACGAAGGGGUCGGAGGUUCGAAUCCUCUAUCACCGACCA
+(((((((.((((.(((((....((.(.(((((((....)))))))).))...)))))))...))...))))))).... (-28.20)
+>URS000018CF94_911092 selenocysteine tRNA from Caldanaerobacter subterraneus (PDB 3W1K, chain G)
+GGGAGUAGAUAGGCGCUGGUGUGCCUCCUAGACUUCAAAUCUACGGUCUCGCUAUUUAAGCGAGAGGUGGGUUCGAUUCCCACAUACUCCCGCCA
+(((((((...((((((....))))))((((((.......)))).))(((((((.....))))))).(((((.......))))).))))))).... (-41.00)
+>URS00008FED39_562 tRNALys from Escherichia coli (PDB 5E7K, chain 1K)
+GGGUCGUUAGCUCAGUUGGUAGAGCAGUUGACUUUUAAUCAAUUGUCGCAGGUUCGAAUCCUGCACGACCCACCA
+(((((((..((((........))))((((((.......))))))...(((((.......)))))))))))).... (-27.10)
+>URS0000316653_1422 tRNA-Arg from Geobacillus stearothermophilus (PDB 5B63, chain D)
+GCGCUCGUAGCUCAAUUGGAUAGAGCAUCUGACUACGGAUCAGAAGGUUAGGGGUUCGAAUCCUCUCGAGCGCGCCA
+(((((((..((((.........)))).((((((....).))))).....(((((.......)))))))))))).... (-26.80)
+>URS00002905B5_562 tRNAiMet from Escherichia coli (PDB 5F8K, chain 1x)
+GCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.50)
+>URS00000337BF_274 TRNASER from Thermus thermophilus (PDB 1SER, chain T)
+GGAGAGGUGCCCGAGUGGCUGAAGGGACACGACUGGAAAUCGUGUAGGGGGGCUUAAACCUCCCUCGCGGGUUCGAAUCCCGCCCUCUCCGCCA
+(((((((..(((...........)))((((((.......))))))(((((((......))))))).(((((.......)))))))))))).... (-43.50)
+>URS00005AD0B9_4932 P-site tRNA from Saccharomyces cerevisiae (PDB 3J16, chain L)
+UCCGUGAUAGUUUAAUGGUCAGAAUGGGCGCUUGUCGCGUGCCAGAUCGGGGUUCAAUUCCCCGUCGCGGAGCCA
+((((((((........((((....(((((((.....)))).)))))))((((.......)))))))))))).... (-26.60)
+>URS00002CB170_4932 Met-tRNAi from Saccharomyces cerevisiae (PDB 3JAQ, chain 1)
+AGCGCCGUGGCGCAGUGGAAGCGCGCAGGGCUCAUAACCCUGAUGUCCUCGGAUCGAAACCGAGCGGCGCUACCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-32.10)
+>URS00002CF5C7_9913 Bos taurus tRNA Trp BCA
+GACCUCGUGGCGCAAUGGUAGCGCGUCUGACUCCAGAUCAGAAGGUUGCGUGUUCGAAUCACGUCGGGGUCACCA
+(((((((..((((.......))))(((((....))))).........(((((.......)))))))))))).... (-25.70)
+>URS00003179F7_562 fMet-Val-tRNA-Val from Escherichia coli (PDB 4V6Y, chain A1)
+GGGUGAUUAGCUCAGCUGGGAGAGCACCUCCCUNACAAGGAGGGGGUCGGCGGUUCGAUCCCGUCAUCACCCACCA
+(((((((.(((...)))(((((.....))))).......((.(((((((......))))))).))))))))).... (-34.60)
+>URS0000150212_562 ASPARTYL-TRNA from Escherichia coli (PDB 1EFW, chain D)
+GGAGCGGUAGUUCAGUCGGUUAGAAUACCUGCCUGUCACGCAGGGGGUCGCGGGUUCGAGUCCCGUCCGUUCC
+(((((((..((((.........))))((((.(((((...))))))))).(((((.......)))))))))))) (-26.40)
+>URS00001BBAFC_32630 FORMYL-METHIONYL-TRNAFMET2 from (PDB 2FMT, chain C)
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGAUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))..... (-30.30)
+>URS000011107D_4932 yeast Phe-tRNA-Phe from Saccharomyces cerevisiae (PDB 5M1J, chain A3)
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-22.40)
+>URS000028779A_4932 pe/E-site-tRNA from Saccharomyces cerevisiae (PDB 6GZ3, chain Bw)
+GCGGACUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAGUUCGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-24.70)
+>URS000080E204_562 tRNA ASL Escherichia coli Arg2 from Escherichia coli (PDB 6DTI, chain X)
+CUCGGCUACGAACCGAG
+(((((.......))))) ( -5.30)
+>URS000080DF92_32630 Deacylated tRNA minihelix from (PDB 1QVF, chain 3)
+GCGGAUUCUGUGCACAGAAUUCGCACCA
+((((((((((....)))))))))).... (-14.40)
+>URS000080E1F9_32630 tRNA acceptor stem mimic from (PDB 1NJP, chain 5)
+GGGGCUAAGCGGUUCGAUCCCGCUUAGCUCCACCA
+((((((((((((.......)))))))))))).... (-22.50)
+>URS000080DFD1_32630 tRNA (34-MER) from (PDB 2ZH5, chain B)
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCACU
+((((((((((((.......))))))))))))... (-29.80)
+>URS000080DFD2_562 A site ASL of tRNA-Proline CGG (unmodified) from Escherichia coli (PDB 4P70, chain QY)
+GCUCGUUCGGGACGAGC
+(((((((...))))))) ( -7.90)
+>URS000080E213_32630 tRNA (33-MER) from (PDB 2DR7, chain B)
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCAC
+((((((((((((.......)))))))))))).. (-29.80)
+>URS000080E266_562 tRNA ASL Escherichia coli Arg2 from Escherichia coli (PDB 6MKN, chain X)
+CUCGGCUICGAACCGAG
+(((((.......))))) ( -5.30)
+>URS000080DF03_32630 tRNA (34-MER) from (PDB 2ZHB, chain B)
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCAUC
+((((((((((((.......))))))))))))... (-29.80)
+>URS000080E09B_32630 tRNA (33-MER) from (PDB 2ZH7, chain B)
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCAG
+((((((((((((.......)))))))))))).. (-29.80)
+>URS000080E2A0_32630 tRNA CCA-acceptor from (PDB 3VJR, chain B)
+GGGGGCUAAGCGGUUCGAUCCCGCUUAGCUCCACCA
+.((((((((((((.......)))))))))))).... (-22.20)
+>URS00008116C2_9823 P-SITE AND A-SITE TRNA from Sus scrofa (PDB 5AJ3, chain V)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXAAAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+................................................................ (  0.00)
+>URS000080E1B0_32630 ASL-truncated tRNA from (PDB 3AM1, chain B)
+GGCGCGGGGUACCGGGCUUGGUAGCCCGGGGCUUCGGCCGAGGGCGAGAGCCCUCGGGGUUCGAUUCCCCCCCUGCGCCGC
+(((((((((..(((((((....)))))))(((....)))((((((....))))))((((.......))))))))))))).. (-59.10)
+>URS000080E1F3_32630 tRNA (34-MER) from (PDB 2ZH2, chain B)
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCAAC
+((((((((((((.......))))))))))))... (-29.80)
+>URS000080DECC_32630 tRNA (35-MER) from (PDB 2DRB, chain B)
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCACCA
+((((((((((((.......)))))))))))).... (-29.80)
+>URS000080E16A_32630 tRNA (32-MER) from (PDB 2DR5, chain B)
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCA
+((((((((((((.......)))))))))))). (-29.80)
+>URS000080E22B_308052 tRNA (5'-D(*AP*UP*CP*CP*CP*CP*GP*UP*GP*UP*CP*CP*UP*UP*GP*GP*UP*UP*CP*G)-3') from Mitsuaria sp. 67 (PDB 4WT8, chain D2)
+AUCCCCGUGUCCUUGGUUCG
+....(((......))).... ( -1.30)
+>URS000080DD90_32630 tRNA (33-MER) from (PDB 2ZH9, chain B)
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCAU
+((((((((((((.......)))))))))))).. (-29.80)
+>URS000080DFD0_4932 E-site tRNA from Saccharomyces cerevisiae (PDB 3J6B, chain e)
+GCCCGGGAGUCCGGGCACCA
+((((((....)))))).... (-13.30)
+>URS000080E223_32630 Anticodon tRNA from (PDB 1XNQ, chain X)
+GGCUICGAACC
+........... (  0.00)
+>URS0000868530_9986 P-site tRNA from Oryctolagus cuniculus (PDB 5LZV, chain 2)
+GUCUCCGUAGUGUAGCGGUUAUCACGUUCGCCUAACACGCGAAAGGUCCUCGGUUCGAAACCGGGCGGAAACACCA
+.....(((.((((.((((.........))))...)))))))...(((..((.(((((....))))).))...))). (-19.00)
+>URS000080DD47_32630 tRNA (34-MER) from (PDB 2ZH3, chain B)
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCACA
+((((((((((((.......))))))))))))... (-29.80)
+>URS000080E2A3_32630 PHE TRNA (UNMODIFIED BASES) from (PDB 4V50, chain CW)
+UCGGGCUCAUAACCCGA
+(((((.......))))) ( -6.00)
+>URS000080E2DE_562 tRNA ASL Escherichia coli Arg1 from Escherichia coli (PDB 6MPI, chain X)
+CUCGGXUICGAACCGAG
+(((((.......))))) ( -5.30)
+>URS000080DDD2_32630 tRNA (34-MER) from (PDB 2ZH4, chain B)
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCACG
+((((((((((((.......))))))))))))... (-29.80)
+>URS000080E100_32630 TRNA ALA ACCEPTOR STEM from (PDB 1IKD, chain A)
+GGGGCUCUUCGGAGCUCCACCA
+(((((((....))))))).... (-12.80)
+>URS00008116A6_9823 P-SITE AND A-SITE TRNA from Sus scrofa (PDB 5AJ4, chain AV)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXAAAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXA
+..................................................................... (  0.00)
+>URS00008116B9_562 A-site tRNA Thr from Escherichia coli (PDB 4TUB, chain QY)
+CACCCUUGGUAAGGGUG
+(((((((...))))))) ( -8.00)
+>URS00008116C3_9823 MITORIBOSOMAL CP TRNA from Sus scrofa (PDB 5AJ4, chain BB)
+AXAXAAXXXAAAAAXAAAAXAXXAAAAAXAXXXAAAXAAAXXAAXXXXAXA
+................................................... (  0.00)
+>URS000080DE82_32630 bacterial tRNA from (PDB 2ZNI, chain D)
+GGGGGGUGGAUCGAAUAGAUCACACGGACUCUAAAUUCGUGCAGGCGGGUGAAACUCCCGUACUCCCCGCCA
+(((((((.((((.....)))).((((((.......))))))...(((((.......)))))))))))).... (-28.30)
+>URS000080DD95_32630 tRNA ASL human Lys3 from (PDB 3T1Y, chain X)
+GACUUUUAAUC
+........... (  0.00)
+>URS000080E352_32630 tRNA (34-MER) from (PDB 2ZH8, chain B)
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCAGC
+((((((((((((.......))))))))))))... (-29.80)
+>URS000080DF54_32630 P-site tRNA ASL fragment from (PDB 4V6E, chain CX)
+GGGGAUUGAAAAUCCCC
+(((((((...))))))) ( -8.40)
+>URS000080DF59_32630 ANTICODON DOMAIN OF TRNA(LYS) from (PDB 1FL8, chain A)
+UCAGACUUUUAAUCUGA
+(((((.......))))) ( -2.60)
+>URS000080E0BF_32630 tRNA (34-MER) from (PDB 2DVI, chain B)
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCACC
+((((((((((((.......))))))))))))... (-29.80)
+>URS000080DE99_4932 A-SITE TRNA OF 70S RIBOSOME from Saccharomyces cerevisiae (PDB 486D, chain C)
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCCGCUUGUCGCGUGGGAGGUCCUGUGUUCGAUCCACAGAAUUCGC
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))) (-22.60)
+>URS000080E05A_562 E-SITE TRNA PHE OR P-SITE TRNA PHE (UNMODIFIED BASES) from Escherichia coli (PDB 4V5J, chain CW)
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCAF
+(((((((..((((........)))).(((((((...))))))).....(((((.......))))))))))))..... (-34.10)
+>URS000080E0EA_9823 MITORIBOSOMAL CP TRNA from Sus scrofa (PDB 4V19, chain B)
+AXXAAXAXAAXXXAAAAAXAAAAXAXXAAAAAXAXXXAAAXAAAXXAAXXXXAXAAAXAXXA
+.............................................................. (  0.00)
+>URS0000E60BD2_562 tRNA ASL Escherichia coli Arg1 from Escherichia coli (PDB 6MPF, chain X)
+GGXUICGAACC
+........... (  0.00)
+>URS0000BC466E_1772 tRNA-Phe anticodon stem from Mycolicibacterium smegmatis (PDB 5O5J, chain W)
+AGGGGAUUGAAAAUCCCCG
+.(((((((...))))))). ( -9.80)
+>URS000080E157_32630 ASL-tRNA from synthetic construct (PDB 4JV5, chain Y)
+AUUIGAAAUC
+.......... (  0.00)
+>URS000080E301_32630 ASL-tRNA from synthetic construct (PDB 4JYA, chain Y)
+AUUGAAGAUU
+.......... (  0.00)
+>URS000080E0DA_32630 PRE-TRNA BULGE-HELIX-BULGE MOTIF from (PDB 1A9L, chain A)
+GGGUGACUCCAGAGGUCGAGAGACCGGAGAUAUCACCC
+((((((((((...((((....))))))))...)))))) (-18.80)
+>URS000080DDBF_32630 P-tRNA from (PDB 1PN7, chain C)
+GCGGAUUUACUCAGGGGAGAGCCCAGAUAAAUGGAGUCUGUGCGUCCACAGAAUUCGCACCA
+((((((((.......(((..((.(((((.......))))).)).)))...)))))))).... (-17.90)
+>URS000080E0E0_32630 E-tRNA from (PDB 1PN8, chain D)
+UCCGUGAAACAAAGCGGAUGUACCGGAUUUUUAUUCCGGCUAUGGGGCAAUUCCCCGUCGCGGAGCCA
+(((((((............((((((((.......))))).)))((((.....)))).))))))).... (-22.60)
+>URS0000868532_9986 P/P-site-tRNA from Oryctolagus cuniculus (PDB 6GZ5, chain Bv)
+GUUUCCGUAGUGUAGUGGUUAUCACGUUCGCCUAACACGCGAAAGGUCCCCGGUUCGAAACCGGGCGGAAACACCA
+(((((((.......(((.....))).(((((.......))))).....(((((((...)))))))))))))).... (-25.40)
